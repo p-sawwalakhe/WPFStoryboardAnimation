@@ -1,0 +1,15 @@
+C:\Users\PRITAM\source\repos\TransitionAnimation\bin\Debug\TransitionAnimation.exe.config
+C:\Users\PRITAM\source\repos\TransitionAnimation\bin\Debug\TransitionAnimation.exe
+C:\Users\PRITAM\source\repos\TransitionAnimation\bin\Debug\TransitionAnimation.pdb
+C:\Users\PRITAM\source\repos\TransitionAnimation\obj\Debug\MainWindow.g.cs
+C:\Users\PRITAM\source\repos\TransitionAnimation\obj\Debug\App.g.cs
+C:\Users\PRITAM\source\repos\TransitionAnimation\obj\Debug\TransitionAnimation_MarkupCompile.cache
+C:\Users\PRITAM\source\repos\TransitionAnimation\obj\Debug\TransitionAnimation_MarkupCompile.lref
+C:\Users\PRITAM\source\repos\TransitionAnimation\obj\Debug\MainWindow.baml
+C:\Users\PRITAM\source\repos\TransitionAnimation\obj\Debug\TransitionAnimation.g.resources
+C:\Users\PRITAM\source\repos\TransitionAnimation\obj\Debug\TransitionAnimation.Properties.Resources.resources
+C:\Users\PRITAM\source\repos\TransitionAnimation\obj\Debug\TransitionAnimation.csproj.GenerateResource.cache
+C:\Users\PRITAM\source\repos\TransitionAnimation\obj\Debug\TransitionAnimation.csproj.CoreCompileInputs.cache
+C:\Users\PRITAM\source\repos\TransitionAnimation\obj\Debug\TransitionAnimation.exe
+C:\Users\PRITAM\source\repos\TransitionAnimation\obj\Debug\TransitionAnimation.pdb
+C:\Users\PRITAM\source\repos\TransitionAnimation\obj\Debug\TransitionAnimation.csprojAssemblyReference.cache
